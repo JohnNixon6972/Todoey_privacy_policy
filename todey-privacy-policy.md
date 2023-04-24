@@ -31,6 +31,6 @@ We may update this privacy note from time to time. We will notify you of any mat
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy practices or this privacy note, please contact us at [insert contact email].
+If you have any questions or concerns about our privacy practices or this privacy note, please contact us at johnbrightnixon@gmail.com.
 
 Thank you for choosing Todoey!
